@@ -17,7 +17,6 @@ False positives cost twice as much as missed bots, so the detector is designed t
 ```
 detectorwFrench.py              Main detector with English + French support
 detector.py                     Original English-only detector (legacy)
-detector2.py                    Earlier iteration (legacy)
 dataset.posts&users.XX.json     Input datasets (posts and user metadata)
 dataset.bots.XX.txt             Ground truth bot labels (practice sets only)
 BotsBeGone.detections.en.txt    Submission file -- English detections
